@@ -1,6 +1,6 @@
 # Lighting Website Header
 
-## <a href="https://brodeed.github.io/coffee-shop/">Live Preview</a><br>
+## <a href=https://lighting-header.netlify.app/>Live Preview</a><br>
 
 A header for a lighting website.
 
